@@ -70,4 +70,4 @@ Upload the APK file to Google Drive and share the link.
 
 Push the code to GitHub repository.
 
-
+People can go to master branch to view the code.
